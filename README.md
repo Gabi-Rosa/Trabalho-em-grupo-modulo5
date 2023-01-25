@@ -36,7 +36,6 @@ Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selec
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Abaixo consta o script de criação do banco de dados .</b>
-![image](https://user-images.githubusercontent.com/88403395/214693277-675f16fb-3d81-4098-b425-a7be08a9e9b4.png)
 
 CREATE DATABASE db_game_of_thrones;<br>
   
@@ -54,8 +53,6 @@ CREATE TABLE GOT_episodes (
 
 /*Quantas temporadas a série possui?*/
   <br>
-  ![image](https://user-images.githubusercontent.com/88403395/214693047-0434b597-1c96-4e6b-b875-56429701f48c.png)
-
 SELECT COUNT(DISTINCT season) AS quantidade_de_temporadas FROM got_episodes;
 <br><br>
 /*Quantos episódios a série possui?*/
