@@ -36,7 +36,7 @@ Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selec
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Abaixo consta o script de criação do banco de dados .</b>
-![image](https://user-images.githubusercontent.com/88403395/214692926-8e8f2194-9f93-45b8-a1ff-2199ca7daa8c.png)
+![image](https://user-images.githubusercontent.com/88403395/214693277-675f16fb-3d81-4098-b425-a7be08a9e9b4.png)
 
 CREATE DATABASE db_game_of_thrones;<br>
   
